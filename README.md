@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Things you need to install the software and how to install them
 
-* Spark AR Studio (I using v90)
+* Spark AR Studio (I use v90)
 
 ### Installing
 
