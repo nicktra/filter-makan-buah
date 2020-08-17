@@ -8,7 +8,7 @@
   </p>
 </p>
 
-# Simple Web Profile
+# Filter Makan Buah
 
 Filter Makan Buah is Instagram AR filter.
 
