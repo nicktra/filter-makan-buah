@@ -30,10 +30,6 @@ git clone https://github.com/nicktra/filter-makan-buah.git
 ```
 2. Open with your Spark AR Studio
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [Spark AR Studio](https://sparkar.facebook.com/ar-studio/) - The tool for creating AR effects on Facebook and Instagram.
